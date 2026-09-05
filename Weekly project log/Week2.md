@@ -1,23 +1,46 @@
 # Week 2 Project Log
 
-## Individual Contributions
+## ECSE 395 Semester Project
 
-This week, my main contribution was helping prepare for our stakeholder meeting. I worked on developing and organizing questions that would help us better understand the stakeholder's needs, expectations, and constraints for the project.
+Student: Aedan Reagans  
+Case ID: `arr142`  
+Team members: Lucas Benson and Zachary Blue
 
-I focused on making sure the questions would give us useful information about the problem and help guide our design decisions moving forward.
+## September 4, 2026
 
-## Group Contributions
+### Stakeholder Meeting Preparation
 
-As a group, we started discussing possible components and materials that could be used in the project. A large part of the discussion focused on sensors and how they could be incorporated into the design.
+This week, most of my work was focused on getting ready for our upcoming stakeholder meeting. I helped come up with questions that would give us a better idea of what the stakeholder actually needs and what constraints we should be thinking about before we get too far into the design.
 
-We also talked about wireless communication options, especially Bluetooth, and how a wireless connection could potentially be used to transmit data or communicate between parts of the system.
+I tried to focus on questions that would help us avoid making assumptions and give us something useful to work from after the meeting.
 
-We have not made any final decisions yet, but these discussions helped us start thinking about what types of hardware and communication methods may fit the project.
+### Early Technical Discussion
 
-## Stakeholder Meeting Preparation
+As a group, we also started talking through some possible technical directions for the project. We discussed different types of sensors that could potentially be used and how the data from those sensors might be transmitted.
 
-A major focus this week was preparing for the stakeholder meeting. We wanted to make sure we had questions ready that would help clarify the problem, identify important requirements, and better understand what the stakeholder expects from the final design.
+We specifically talked about wireless communication and Bluetooth as possible options. At this point, we were mostly throwing around ideas and trying to understand what might make sense for the system rather than making any final decisions.
 
-## Next Steps
+We also briefly talked about possible materials for the design. That discussion was still very early, so nothing has been selected yet.
 
-After the stakeholder meeting, the next step will be to use the feedback we receive to define the project requirements more clearly. We will also continue evaluating possible sensors, materials, and wireless communication methods such as Bluetooth as the design develops.
+### Individual Contributions
+
+- I helped develop and organize questions for the stakeholder meeting.
+- I focused on questions that would help clarify the stakeholder's needs, expectations, and design constraints.
+- I took part in the discussion about possible sensors for the project.
+- I contributed to the discussion about wireless communication and Bluetooth.
+- I participated in the early discussion about possible materials.
+- I updated my Week 2 project log to document what I worked on.
+
+### Group Contributions
+
+As a team, we prepared for the stakeholder meeting and started discussing some of the technical possibilities for the project. Most of the discussion was centered around sensors, wireless communication, Bluetooth, and possible materials.
+
+These were still early ideas, so we have not committed to any specific components or design choices yet.
+
+### Next Steps
+
+- Complete the stakeholder interview.
+- Use the stakeholder's feedback to narrow down the project requirements.
+- Figure out which sensors would actually make sense for the project.
+- Continue looking at Bluetooth and other wireless communication options.
+- Start narrowing down materials once we have a better understanding of the design requirements.
