@@ -8,4 +8,4 @@ This folder contains a weekly log and accountability record of my individual con
 |---|---|---|
 | 1 | [Week1.md](Week1.md) | Team formation, initial stakeholder outreach, interview scheduling, and next steps |
 | 2 | [Week2.md](Week2.md) | Stakeholder meeting question preparation and early discussion of sensors, wireless communication, Bluetooth, and possible materials |
-
+| 3 | [Week3.md](Week3.md) | Stakeholder interview, project background and needs statement, affinity clustering, personas, key insights, and functional/technical specification preparation |
