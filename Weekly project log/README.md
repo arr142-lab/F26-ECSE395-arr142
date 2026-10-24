@@ -13,3 +13,4 @@ This folder contains a weekly log and accountability record of my individual con
 | 6 | [Week6.md](Week6.md) | Concept selection, project planning, Glennan lab prototyping, ESP32/potentiometer testing, and SolidWorks backplate development |
 | 7 | [Week7.md](Week7.md) | System architecture, prototype planning, paper enclosure, SolidWorks CAD, electrical prototyping, and design review preparation |
 | 8 | [Week8.md](Week8.md) | Enclosure 3D printing, ESP32 code debugging, functional architecture revisions, and prototype integration planning |
+| 9 | [Week9.md](Week9.md) | ESP32 code development and testing issues, completed 3D-printed enclosure, identified design changes, and upcoming presentation preparation |
