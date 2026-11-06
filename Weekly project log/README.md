@@ -15,3 +15,4 @@ This folder contains a weekly log and accountability record of my individual con
 | 8 | [Week8.md](Week8.md) | Enclosure 3D printing, ESP32 code debugging, functional architecture revisions, and prototype integration planning |
 | 9 | [Week9.md](Week9.md) | ESP32 code development and testing issues, completed 3D-printed enclosure, identified design changes, and upcoming presentation preparation |
 | 10 | [Week10.md](Week10.md) | ESP32 sensor testing, ultrasonic and PIR detection logic, vibration alerts, software debugging, and evaluation plan preparation |
+| 11 | [Week11.md](Week11.md) | ESP32 code improvements, wiring of the updated device, prototype testing at Zach's house, and successful electrical integration |
